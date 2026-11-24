@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B18,30:1E1B4B,60:4338CA,100:7C3AED&text=R.%20ANU%20PRABHA&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="R. Anu Prabha"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B18,30:1E1B4B,60:4338CA,100:7C3AED&text=R.%20ANU%20PRABHA&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20ML%20Enthusiast&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="R. Anu Prabha"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=B.E.+Computer+Science+Student;Full+Stack+Developer;Generative+AI+%26+Machine+Learning;Building+Real-World+Applications" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=B.E.+Computer+Science+Student;Full+Stack+Developer;Generative+AI+and+Machine+Learning;Building+Real-World+Applications" alt="Typing intro"/>
 
 <br/>
 
@@ -126,4 +126,4 @@ open_to: [Software Development Internships, Full Stack, AI/ML roles]
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312E81,50:6D28D9,100:09090F" width="100%" alt="Footer"/>
 
-</div>
+</div>>
