@@ -127,3 +127,11 @@ open_to: [Software Development Internships, Full Stack, AI/ML roles]
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312E81,50:6D28D9,100:09090F" width="100%" alt="Footer"/>
 
 </div>>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/anuprabha743-cell/anuprabha743-cell/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/anuprabha743-cell/anuprabha743-cell/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/anuprabha743-cell/anuprabha743-cell/output/github-contribution-grid-snake.svg">
+</picture>
